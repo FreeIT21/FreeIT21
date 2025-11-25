@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/FreeIT21/FreeIT21/blob/main/dead-calm.png?raw=true" width="180" alt="dead calm"/>
-  <h1>Привет, я FreeIT21 (dead calm)</h1>
+  <img src="https://github.com/FreeIT21/FreeIT21/blob/main/dead-calm.png?raw=true" width="180"/>
+  <h1>Привет, я FreeIT21 (dead calm) 👋</h1>
 </div>
 
 **Frontend-разработчик** • Vue 3 / TypeScript / JavaScript • Омск
@@ -8,9 +8,10 @@
 ### Технологии
 <img src="https://skillicons.dev/icons?i=vue,ts,js,html,css,tailwind,vite,git,github,figma,webstorm&perline=11" />
 
-### Статистика кодинга (WakaTime + GitHub)
+### Статистика кодинга
 <p>
-  <img height="195" src="https://github-readme-stats.vercel.app/api/wakatime?username=FreeIT21&layout=compact&theme=tokyonight&hide_border=true&custom_title=WakaTime%20·%20Часы%20кода" />
+  <!-- Официальный публичный график WakaTime — всегда работает -->
+  <img height="195" src="https://wakatime.com/share/@FreeIT21/7b1bae17-742e-4f76-a79d-09badc4e3ee8.svg" />
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreeIT21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
@@ -20,9 +21,10 @@
   <img height="195" src="https://streak-stats.vercel.app/?user=FreeIT21&theme=tokyonight&hide_border=true" />
 </p>
 
-### Сейчас в работе
-- Углубляюсь в Vue 3 + Composition API + Pinia  
-- Делаю адаптивные pet-проекты с анимациями  
+### Сейчас изучаю и делаю
+- Vue 3 + Composition API + Pinia  
+- Адаптивная вёрстка и анимации  
+- Pet-проекты под портфолио  
 - Готовлюсь к первой работе (junior)
 
 ### Связь со мной
