@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/FreeIT21/FreeIT21/blob/main/dead-calm.png?raw=true" width="180"/>
+  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="180" alt="dead calm"/>  <!-- Замени на свой реальный аватар URL, если не грузится -->
   <h1>Привет, я FreeIT21 (dead calm) 👋</h1>
 </div>
 
@@ -8,18 +8,17 @@
 ### Технологии
 <img src="https://skillicons.dev/icons?i=vue,ts,js,html,css,tailwind,vite,git,github,figma,webstorm&perline=11" />
 
-### Статистика кодинга
+### Статистика кодинга (WakaTime)
+<img align="center" height="195" src="https://wakatime.com/share/@FreeIT21/7b1bae17-742e-4f76-a79d-09badc4e3ee8.svg" />  <!-- Официальный WakaTime — всегда работает, показывает 321+ часов, языки, WebStorm -->
+
+### GitHub Stats
 <p>
-  <!-- Официальный публичный график WakaTime — всегда работает -->
-  <img height="195" src="https://wakatime.com/share/@FreeIT21/7b1bae17-742e-4f76-a79d-09badc4e3ee8.svg" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreeIT21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=FreeIT21&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />  <!-- Основная статистика: репозитории, коммиты, звёзды -->
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreeIT21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />  <!-- Топ языки из коммитов -->
 </p>
 
-### GitHub Stats + Стрик
-<p>
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=FreeIT21&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="195" src="https://streak-stats.vercel.app/?user=FreeIT21&theme=tokyonight&hide_border=true" />
-</p>
+### Стрик активности
+<img height="195" src="https://streak-stats.vercel.app/?user=FreeIT21&theme=tokyonight&hide_border=true" />  <!-- Твой стрик: 1 день сейчас, продолжай кодить! -->
 
 ### Сейчас изучаю и делаю
 - Vue 3 + Composition API + Pinia  
