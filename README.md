@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm FreeIT21 👋
 
-<!--
-**FreeIT21/FreeIT21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![dead calm](https://github.com/FreeIT21.png)
 
-Here are some ideas to get you started:
+**Frontend-разработчик** • Vue.js / TypeScript / JavaScript • Омск (GMT+6)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Моя статистика кодинга (WakaTime)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=FreeIT21&layout=compact&theme=tokyonight&langs_count=5&hide_border=true)
+
+(9 ч 19 мин за неделю: Vue.js 31%, CSS 20%, JS 19%; WebStorm на Windows)
+
+### GitHub Stats
+![FreeIT21's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreeIT21&theme=tokyonight&hide_border=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FreeIT21&theme=tokyonight&layout=compact&hide_border=true)
+
+### Текущая активность
+- Изучаю Vue 3 + TypeScript
+- Pet-проекты: sesh-site, green-web, split-site
+- Готов к junior/middle позициям
+
+Связь: @FreeIT21 • [Telegram](https://t.me/FreeIT21) (замени на свой)
+
+⭐️ From [dead calm](https://github.com/FreeIT21) with ❤️
