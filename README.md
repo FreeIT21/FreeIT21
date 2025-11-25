@@ -1,24 +1,33 @@
-# Hi there, I'm FreeIT21 👋
+<div align="center">
+  <img src="https://github.com/FreeIT21.png" width="180" alt="dead calm"/>
+  <h1>Привет, я FreeIT21 (dead calm)</h1>
+</div>
 
-![dead calm](https://github.com/FreeIT21.png)
+**Frontend-разработчик** • Vue 3 / TypeScript / JavaScript
 
-**Frontend-разработчик** • Vue.js / TypeScript / JavaScript • Омск (GMT+6)
+### Технологии
+<img src="https://skillicons.dev/icons?i=vue,ts,js,html,css,tailwind,vite,git,github,figma,webstorm" />
 
-### Моя статистика кодинга (WakaTime)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=FreeIT21&layout=compact&theme=tokyonight&langs_count=5&hide_border=true)
-
-(9 ч 19 мин за неделю: Vue.js 31%, CSS 20%, JS 19%; WebStorm на Windows)
+### Статистика кодинга
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=FreeIT21&layout=compact&theme=tokyonight&hide_border=true&custom_title=Часы%20кода%20за%20всё%20время" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreeIT21&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook,tex" />
+</p>
 
 ### GitHub Stats
-![FreeIT21's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreeIT21&theme=tokyonight&hide_border=true&show_icons=true)
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=FreeIT21&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" />
+  <img height="180" src="https://streak-stats.vercel.app/?user=FreeIT21&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FreeIT21&theme=tokyonight&layout=compact&hide_border=true)
+### Сейчас в работе
+- Углубляюсь в Vue 3 + Composition API + Pinia
+- Пишу pet-проекты с адаптивной вёрсткой и анимациями и многое другое
+- Готовлюсь к junior позициям
 
-### Текущая активность
-- Изучаю Vue 3 + TypeScript
-- Pet-проекты: sesh-site, green-web, split-site
-- Готов к junior/middle позициям
+### Связь со мной
+- Telegram: [@FreeIT21](https://t.me/Waka_Flocka_q)
 
-Связь: @FreeIT21 • [Telegram](https://t.me/FreeIT21) (замени на свой)
-
-⭐️ From [dead calm](https://github.com/FreeIT21) with ❤️
+<div align="center">
+  <i>«Пишу код спокойно и с удовольствием»</i>
+</div>
