@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="180" alt="dead calm"/>  <!-- Замени на свой реальный аватар URL, если не грузится -->
+  <img src="https://i.pinimg.com/736x/3a/a4/34/3aa434a65d3276af341a94e425df6922.jpg" width="180" alt="dead calm"/>  <!-- Замени на свой реальный аватар URL, если не грузится -->
   <h1>Привет, я FreeIT21 (dead calm) 👋</h1>
 </div>
 
